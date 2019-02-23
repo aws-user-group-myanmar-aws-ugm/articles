@@ -4,8 +4,9 @@
 
 လက္ရွိအခ်ိန္မွာေတာ့ cloud အမ်ိဳးအစားကို အသံုးခ်တဲ့ပံုစံအဓိက (၃) မ်ိဳးေတြ့နိုင္ပါတယ္။ယေန့အခ်ိန္မွာေတာ့ ေနာက္ထပ္အမ်ိဳးအစားငယ္ေလးေတြလည္းရွိလာပါျပီ။
 
+
 **1.Public Cloud**
 
 Public Cloud ကေတာ့ infrastructure ကိုသက္ဆိုင္ရာ  third-party cloud service providers (AWS,GOOGLE,IBM,ORACLE) ေတြကပိုင္ဆိုင္ၾကတာျဖစ္ျပီး user ေတြလိုအပ္တဲ့ virtual resources ေတြကို အင္တာနက္ေပၚမွတစ္ဆင့္ delivery လုပ္ပါတယ္။ User ေတြအေနနဲ့ မိမိတို့ web browser မွတစ္ဆင့္ဝင္ေရာက္ျပီး manage လုပ္ဖုိ့အတြက္ access လုပ္ၾကရပါတယ္။ တစ္ခ်ိဳ့ေသာ Organization ေတြမွာေတာ့ on-premises မွ public cloud ကိုေျပာင္းလဲအသံုးျပဳလာၾကပါတယ္။
 
-![](/cloud_101_1.jpg)
+                             ![](/cloud_101_1.jpg)
