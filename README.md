@@ -1,5 +1,5 @@
 # Articles
-## Aws articles by aws-ugm
+## AWS Articles By AWS-UGM
 
 ![](/awsugm.jpg)
 
