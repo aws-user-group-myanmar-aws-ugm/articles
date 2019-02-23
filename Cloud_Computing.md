@@ -13,9 +13,53 @@
 
 ![](https://github.com/aws-user-group-myanmar-aws-ugm/articlephotos/blob/master/cloud_101_1.jpg "Public Cloud")
 
+
 **2.Private Cloud or On-premises**
 
 
 *Private Cloud* ကေတာ့ infrastructure ကို  single oragnization/business တစ္ခုတည္းကပဲသီးသန့္ပိုင္ဆိုင္အသံုးျပဳလို့ရပါတယ္။ Public cloud မွာလိုမ်ိဳး မည္သူမဆိုအသံုးျပဳနိုင္မယ္ဆိုတာမ်ိဳးမဟုတ္ပါဘူး။ Dedicated ျဖစ္ပါတယ္။ အရင္ကေတာ့ ျမန္မာနိုင္ငံက company တစ္ခ်ိဳ့မွာ on-premises ကိုသာသံုးဆြဲေနၾကမယ္လို့လဲယူဆနိုင္ပါတယ္။ Data Center ေတြေတာ့ကိုယ္ပိုင္ရံုးတြင္း environment သို့မဟုတ္ colocation center ေတြမွာ host လုပ္ေလ့ရွိၾကပါတယ္။ Private cloud ကိုေတာ့ information sensitive ျဖစ္တဲ့ government agencies,financial institutions,mid to large-size organization ေတြမွာသံုးေလ့ရွိၾကပါတယ္။တစ္နည္းအားျဖင့္ ကိုယ့္ information/data ေတြကို အျပင္ကိုေပါက္ၾကားမွာကိုမလိုလားတဲ့ organization အေနနဲ့အမ်ားဆံုးေရြးခ်ယ္ၾကပါတယ္။ 
 
 ![](https://github.com/aws-user-group-myanmar-aws-ugm/articlephotos/blob/master/cloud_101_2.jpg "Private Cloud or On-premises")
+
+
+**3.Hybrid Cloud**
+
+
+*Hybrid Cloud* ကေတာ့ ရွင္းပါတယ္။ ရိုးရိုးေလးပဲေတြးၾကည့္တာနဲ့တင္ ဘယ္လိုအမ်ိဳးအစားလဲဆိုတာေပၚလြင္ပါတယ္။ သူကေတာ့ private ေရာ public ပါ ၂ခုလံုးေပါင္းထားတဲ့ cloud အမ်ိုးအစားျဖစ္ပါတယ္။ ဥပမာအေနနဲ့ဆိုရင္ေတာ့ ကြ်န္ေတာ္တို့ service ေပးမဲ့ lower-security ေလာက္ပဲလိုအပ္တဲ့ application တစ္ခုမွာ infrastructure အေနနဲ့  resource ေတြကို public cloud မွာထားမယ္၊ အေရးၾကီးတဲ့ Business-critical operation  ေတြလိုမ်ိဳးအေျခအေနမ်ိဳးမွာဆိုရင္ resource ေတြကို private cloud မွာထားမယ္စသျဖင့္ စီစဥ္ထားနိုင္ပါတယ္။
+Public ေရာ Private ႏွစ္မ်ိုးစလံုးမွာရနိုင္မဲ့ features ေတြကို ကိုယ္ပိုင္ organization မွာလိုခ်င္တာမ်ိဳးဆိုရင္လည္း hybrid cloud ကိုေရြးခ်ယ္ၾကပါတယ္။
+
+![](https://github.com/aws-user-group-myanmar-aws-ugm/articlephotos/blob/master/cloud_101_3.jpg "Hybrid Cloud")
+
+
+**_Cloud Computing Models_**
+
+
+![](https://github.com/aws-user-group-myanmar-aws-ugm/articlephotos/blob/master/cloud_101_4.jpg "Cloud Computing Models")
+
+
+Cloud computing models ေတြအေနနဲ့မွာလည္း အဓိက(၃)မ်ိုးေတြ့နိုင္ေသးတယ္။နာမည္ၾကီး Cloud Service Providers ေတာ္ေတာ္မ်ားမ်ားမွာေတာ့ models (၃)မ်ိဳးစလံုးကို အေထာက္အပ့ံေပးနိုင္ၾကပါတယ္။
+
+
+
+**1.Infrastructure as a Service (IaaS)**
+
+
+ဒီ IaaS model အမ်ိဳးအစားကေတာ့ ကြ်န္ေတာ္တို့ User/Organization ေတြကလိုအပ္တဲ့ computing infrastructure ေတြျဖစ္တဲ့ Server,Block & file-based storages,Networking features,LoadBalancers,IP Addresses တို့ကို အေထာက္အပံ့ေပးနိုင္ပါတယ္။ ဥပမာအေနနဲ့ဆိုရင္ Virtual Private Server (VPS) တစ္လံုးကို Digital Ocean ကေနဝယ္ယူလိုက္တယ္ဆိုရင္ ကြ်န္ေတာ္တို့အျပင္မွာရင္ႏီွးေနၾကျဖစ္တဲ့ Server ကိုကိုယ္တိုင္ OS တင္၊ Network ခ်ိတ္လုပ္ရမဲ့အရာေတြကိုလုပ္စရာမလိုေတာ့ပါဘူး။ အဆင္သင့္ OSတင္ျပီးသား internet connection လည္း ေကာင္းေကာင္းနဲ့အလြယ္တကူပဲ VPS ကို access လုပ္နုိင္ပါျပီ။  ေစ်းကြက္ထဲမွာေတြ့နိုင္တဲ IaaS provider အခ်ိဳ့ေတြကေတာ့ Amazon Web Service(AWS),Digital Ocean(DO),Microsoft Azure တို့ပဲျဖစ္ပါတယ္။ Iaas ရဲ့ ေကာင္းကြက္ဆိုးကြက္ေတြကိုေတာ့ ေနာက္မွဆက္လက္ေရးသားသြားပါဦးမယ္။
+
+
+
+
+**2.Platform as a Service(PaaS)**
+
+
+PaaS model မွာေတာ့ အေပၚမွာရွင္းျပျပီးျဖစ္တဲ့ IaaS model အမ်ိဳးအစားနဲ့မတူေတာ့ပါဘူး။ Platform as a Service ဆိုတဲ့အတိုင္းပဲ computing platform ေတြျဖစ္တဲ့ operating system,programming language execution environment,database,webserver ေတြကိုအလြယ္တကူအဆင့္သင္ယူသံုးနိုင္တဲ့အဆင့္ထိ service ေပးပါျဖစ္ပါတယ္။ ကြ်န္ေတာ္တို့အေနနဲ့ web application တစ္ခုကို develop လုပ္မယ္ဆိုရင္ application ေတြ manually လိုက္လံရွာေဖြ install/configure လုပ္ေနစရာမလိုေတာ့ပါဘူး။ ဒါ့အျပင္ Operating System တစ္ခုခုျဖစ္မွာတို့  storage capacity မေလာက္မွာတို့အတြက္လည္းပူစရာမလိုေတာ့ပါဘူး။ မိမိအေနနဲ့ ဘယ္ database အမ်ိုးအစားကိုသံုးမယ္ webserver ဆိုလည္း apache သံုးမယ္ဆိုတာကိုေရြးေပးလိုက္ရံုနဲ့ အလြယ္တကူ instant သံုးနိုင္တဲ့အဆင့္ထိေရာက္ေအာင္ providers ေတြကေဆာင္ရြက္ေပးသြားမွာျဖစ္ပါတယ္။ 
+
+
+
+
+**3.Software as a Service(SaaS)**
+
+Software as a Service model ကေတာ့ကြ်န္ေတာ္တို့နဲ့ေတာ္ေတာ္ေလးရင္ႏွီးကြ်မ္းဝင္ျပီးသား model အမ်ိဳးအစားထဲကပဲျဖစ္ပါတယ္။ သူ့မွာေတာ့ IaaS တို့ PaaS တို့လိုမ်ိဳး Infrastructure ေရာ Platform ကိုပါ maintain လုပ္စရာမလို့ပဲအသင့္သံုးနိုင္တဲ့ model မ်ိဳးျဖစ္ပါတယ္။ ဥပမာအေနနဲ့ Gmail ပဲထားပါေတာ့ဗ်ာ၊ ကြ်န္ေတာ္တို့လို သာမန္လူေတြအေနနဲ့ Gmail ကိုအသံုးျပဳဖို့ဘယ္ server,database,network ကိုမွ configure/maintain လုပ္စရာမလိုပါဘူး။ Email Service အေနနဲ့ Gmail Application ကို  Google ကတာဝန္ယူျပီးအားလံုးအလြယ္တကူသံုးလို့ရေအာင္ေဆာင္ရြက္ေပးထားလို့ပဲျဖစ္ပါတယ္။ ထိုနည္းတူ facebook,twitter,Google+ ေတြကလည္းဒီသေဘာတရားပါပဲ။ User ေတြအလြယ္သံုးနိုင္ေအာင္ Software as a Service အေနနဲ့ provide လုပ္ေပးထားလို့ပဲျဖစ္ပါတယ္။
+
+
+![](https://github.com/aws-user-group-myanmar-aws-ugm/articlephotos/blob/master/cloud_101_5.jpg "Cloud Computing Models Diagram")
