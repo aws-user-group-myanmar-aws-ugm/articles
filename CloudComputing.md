@@ -11,11 +11,11 @@
 
 *Public Cloud* ကေတာ့ infrastructure ကိုသက္ဆိုင္ရာ  third-party cloud service providers (AWS,GOOGLE,IBM,ORACLE) ေတြကပိုင္ဆိုင္ၾကတာျဖစ္ျပီး user ေတြလိုအပ္တဲ့ virtual resources ေတြကို အင္တာနက္ေပၚမွတစ္ဆင့္ delivery လုပ္ပါတယ္။ User ေတြအေနနဲ့ မိမိတို့ web browser မွတစ္ဆင့္ဝင္ေရာက္ျပီး manage လုပ္ဖုိ့အတြက္ access လုပ္ၾကရပါတယ္။ တစ္ခ်ိဳ့ေသာ Organization ေတြမွာေတာ့ on-premises မွ public cloud ကိုေျပာင္းလဲအသံုးျပဳလာၾကပါတယ္။
 
-![](/cloud_101_1.jpg)
+![](https://github.com/aws-user-group-myanmar-aws-ugm/articlephotos/blob/master/cloud_101_1.jpg)
 
 **2.Private Cloud or On-premises**
 
 
 *Private Cloud* ကေတာ့ infrastructure ကို  single oragnization/business တစ္ခုတည္းကပဲသီးသန့္ပိုင္ဆိုင္အသံုးျပဳလို့ရပါတယ္။ Public cloud မွာလိုမ်ိဳး မည္သူမဆိုအသံုးျပဳနိုင္မယ္ဆိုတာမ်ိဳးမဟုတ္ပါဘူး။ Dedicated ျဖစ္ပါတယ္။ အရင္ကေတာ့ ျမန္မာနိုင္ငံက company တစ္ခ်ိဳ့မွာ on-premises ကိုသာသံုးဆြဲေနၾကမယ္လို့လဲယူဆနိုင္ပါတယ္။ Data Center ေတြေတာ့ကိုယ္ပိုင္ရံုးတြင္း environment သို့မဟုတ္ colocation center ေတြမွာ host လုပ္ေလ့ရွိၾကပါတယ္။ Private cloud ကိုေတာ့ information sensitive ျဖစ္တဲ့ government agencies,financial institutions,mid to large-size organization ေတြမွာသံုးေလ့ရွိၾကပါတယ္။တစ္နည္းအားျဖင့္ ကိုယ့္ information/data ေတြကို အျပင္ကိုေပါက္ၾကားမွာကိုမလိုလားတဲ့ organization အေနနဲ့အမ်ားဆံုးေရြးခ်ယ္ၾကပါတယ္။ 
 
-![](/cloud_101_2.jpg)
+![](https://github.com/aws-user-group-myanmar-aws-ugm/articlephotos/blob/master/cloud_101_2.jpg)
