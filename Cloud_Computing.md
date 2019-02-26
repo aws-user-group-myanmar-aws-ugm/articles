@@ -63,3 +63,12 @@ Software as a Service model ကေတာ့ကြ်န္ေတာ္တို�
 
 
 ![](https://github.com/aws-user-group-myanmar-aws-ugm/articlephotos/blob/master/cloud_101_5.jpg "Cloud Computing Models Diagram")
+
+
+အေပၚကပံုကိုၾကည့္ျပီးေတာ့ Cloud Computing Models ေတြကိုေသခ်ာကြဲကြဲျပားျပားမ်က္စိထဲျမင္ေယာင္မယ္လို့ေမွွ်ာ္လင့္ပါတယ္ခင္ဗ်ာ။ 
+
+ေနာက္ထပ္ Topic ေတြမွာလည္းယခုထပ္ပိုတဲ့အေၾကာင္းအရာေတြကို ဆက္လက္ေရးသားသြားပါဦးမယ္ခင္ဗ်ာ။ 
+
+[Wai Yan Min](https://www.facebook.com/waiyanminthesuperman?eid=ARA9z4Wg9J3BKaX5xMWamPRhhlRrVVPi8vtLehbyGzZBw3DKHB2rw3rKa2Zu08yFNC8SHiOXuA6sjolg)
+
+[AWS User Group Myanmar](https://www.facebook.com/groups/awsmyanmar/)
