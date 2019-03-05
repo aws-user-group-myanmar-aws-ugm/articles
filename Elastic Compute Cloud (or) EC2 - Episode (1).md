@@ -1,5 +1,7 @@
 # Elastic Compute Cloud (or) EC2 - Episode (1)
 
+![](https://i.imgur.com/dRgLosS.jpg "Elastic Compute Cloud")
+
 ဒီေန့မွာေတာ့ AWS မွာရွိတဲ့ Service ေတြထဲကမွ တစ္ခုအပါအဝင္ျဖစ္ျပီး လူသံုးအမ်ားဆံုး Core Service တစ္ခုလည္းျဖစ္တဲ့ EC2 (Elastic Compute Cloud) Instance အေျကာင္းကိုေျပာျပေပးသြားမွာျဖစ္ပါတယ္။ ဆိုေတာ့ကာ ကြ်န္ေတာ္တို့ျကားဖူးေနတဲ့ AWS က EC2 Instance ဆိုတာဘယ္လို Service လဲဆိုရင္ေတာ့ျဖင့္ အနီးစပ္ဆံုးေျပာရင္ Virtual Private Server ( VPS ) ေတြလိုပါပဲ။ EC2 ကအဓိကအားျဖင့္ Cloud Compute ပိုင္းကိုလုပ္ေဆာင္ပါတယ္။ Compute ဆိုတဲ့ထဲမွာအမ်ားျကီးပါဝင္ပါတယ္။ လြယ္လြယ္ေျပာရရင္ ကြ်န္ေတာ္တို့သံုးခ်င္တဲ့ Web Server, Application Server, Database Server စတာေတြအတြက္ Cloud ေပါ္မွာတင္ျပီးအသံုးျပုလို့ရနိုင္ေအာင္လုပ္ေပးတယ္ေပါ့ဗ်ာ။ EC2 Instance ေတြဟာ ေသခ်ာမြန္းမံထားတဲ့ Xen Virtualization ေပါ္မွာအေျခခံထားတာျဖစ္ျပီး 2017 ေနာက္ပိုင္း Instance Class တစ္ခ်ို့ကိုေတာ့ KVM Based Virtualization ( [Nitro](http://www.brendangregg.com/blog/2017-11-29/aws-ec2-virtualization-2017.html) ) ေပါ္မွာအေျခခံထားတာျဖစ္ပါတယ္။ EC2 ( Elastic Compute Cloud ) ေပါ္မွာ Linux Distro ေတာ္ေတာ္မ်ားမ်ား၊ BSD ၊ Windows Operaing System စတာေတြ Run လို့ရပါတယ္။On-Premise မွာ ကိုယ္တိုင္ OS Install/Setup လုပ္ရမဲ့ အခ်ိန္ေတြကို Cloud ေပါ္မွာဆိုရင္ေတာ့ မိနစ္ပိုင္းအတြင္းျပီးမွာျဖစ္တဲ့ အတြက္အခ်ိန္ကုန္သက္သာေစျပီး Future Plan အတြက္ Scaling ( Horizontal/Vertical ) ျပုလုပ္ရာမွာလည္းအလြယ္တကူျပုလုပ္နိုင္မွာျဖစ္ပါတယ္။ 
 
 **Amazon EC2 ( Elastic Compute Cloud )** တြင္ Virtual Server အျပင္ ၎မွ Supporting ေပးထားေသာ Features မ်ားကိုမိတ္ဆက္ေပးပါရေစ။
