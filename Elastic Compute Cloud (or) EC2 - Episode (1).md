@@ -53,4 +53,5 @@
    သည္ေလာက္ဆိုရင္ေတာ့ **Amazon EC2** ရဲ့ အေျခခံ Concepts နဲ့ သူရဲ့နာမည္အေခါ္အေဝါ္ေလးေတြကို အျကမ္းဖ်င္းသေဘာေပါက္လိမ့္မယ္ထင္ပါတယ္။ Episode (1) ပဲရွိေသးတဲ့အတြက္ေနာက္ထပ္ Episodes ေတြမွာ Feature တစ္ခုခ်င္းစီရဲ့ Use Case နဲ့ Details ေလးေတြေရးသားသြားဦးမွာမို့ ဆက္လက္အားေပးျကပါဦး ခင္ဗ်ာ။
    
    [Wai Yan Min](https://www.facebook.com/waiyanminthesuperman "Profile")
+   
    [AWS User Group Myanmar](https://www.facebook.com/awsugm/ "Facebook Group") 
